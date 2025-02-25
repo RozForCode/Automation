@@ -2,12 +2,6 @@
 
 Welcome to my Python Automation Projects repository! 🚀 Here, you'll find a collection of automation scripts and projects that I've worked on to simplify tasks and improve efficiency.
 
-## Project List
-
-1. **Project 1: Automatic File Organizer **
-   - It sorts files in the given path, this project can be modified a little to do sorting periodically as well.
-
-
 
 ## Getting Started
 
